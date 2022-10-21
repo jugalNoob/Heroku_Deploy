@@ -1,0 +1,29 @@
+.headline{background: url("./img/error.jpg");
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(to right , rgba(0, 0, 0,0.7), rgba(0, 0, 0,0.7)), url("./img/error.jpg");
+
+}
+
+
+.headline a:link{
+
+
+    text-transform: capitalize;
+    font-size: 2rem;
+    text-align: center;
+    margin:10px;
+    font-weight: bold;
+
+}
+
+.headline a:visited{
+    color: white;
+    text-align: center;
+    margin-left: 100px!important;
+
+
+}
